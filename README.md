@@ -1,5 +1,5 @@
-# game_memory_test
-Three games for memory test.
+# Game for Memory Test 
+Three games for memory test to detect Alzheimer
 
 1) MemoGame: Puzzle matching with flag cards
 
