@@ -8,4 +8,4 @@ Three games for memory test to detect Alzheimer
 3) Music_recognisation: User has to listen and memorize a melody of 3 notes (easy mode), 5 notes (medium mode), 7 notes (hard mode) 
 
 # Language of coding
-Visual Basic
+Visual Basic (in Visual Studio 2017)
